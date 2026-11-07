@@ -1,4 +1,4 @@
-<h1 align="center">AL-AMANAH FORTRESS</h1>
+AL-AMANAH FORTRESS
 <h3 align="center">TRAVAUX PRATIQUES S - 1985 → 2026 - Batna</h3>
 <p align="center">
   <b>Cadenas • Renaissance - Hifz al-Mal - حفظ المال وصرفه في موضعه</b><br>
